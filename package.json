@@ -1,0 +1,25 @@
+{
+  "name": "travistestwithnodejs",
+  "version": "1.0.0",
+  "description": "A simple nodejs app to test Travis CI setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eashworth/TravisTestWithNodejs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Travis",
+    "Mocha"
+  ],
+  "author": "Elsie Ashworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eashworth/TravisTestWithNodejs/issues"
+  },
+  "homepage": "https://github.com/eashworth/TravisTestWithNodejs#readme"
+}
