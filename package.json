@@ -16,10 +16,15 @@
     "Travis",
     "Mocha"
   ],
-  "author": "Elsie Ashworth",
+  "author": "Original tutorial by Gift Egwuenu; reproduced by Elsie Ashworth",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eashworth/TravisTestWithNodejs/issues"
   },
-  "homepage": "https://github.com/eashworth/TravisTestWithNodejs#readme"
+  "homepage": "https://github.com/eashworth/TravisTestWithNodejs#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.2"
+  }
 }
