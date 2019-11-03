@@ -18,5 +18,5 @@ npm start
 
 # To run the test:
 ```
-npm TravisTestWithNodejs
+npm test
 ```
